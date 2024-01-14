@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Greatgreen0123
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning about Python
--
-- Greatgreen0123/Greatgreen0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
